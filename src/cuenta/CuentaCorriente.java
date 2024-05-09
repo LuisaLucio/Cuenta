@@ -2,7 +2,7 @@ package cuenta;
 
 /**
  *
- * @author Usuario
+ * @author LuisaLucio
  */
 class CuentaCorriente extends Informacion {
     

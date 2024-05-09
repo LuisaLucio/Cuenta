@@ -2,7 +2,7 @@ package cuenta;
 
 /**
  *
- * @author Usuario
+ * @author LuisaLucio
  */
 class CuentaAhorros extends Informacion {
     private double interesAnual;

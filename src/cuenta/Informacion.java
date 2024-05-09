@@ -45,17 +45,6 @@ abstract class Informacion {
     }
 
     public abstract void retirar(double cantidad);
-        /**if (saldo >= cantidad) {
-            saldo -= cantidad;
-            actualizarSaldo();
-        } else {
-            System.out.println("No Hay Saldo Suficiente Para Retirar Esa Cantidad.");
-        
-    }**/
 
-    public abstract void actualizarSaldo();/* {
-        System.out.println("El Saldo Se Actualizo Correctamente.");
-    }  **/
-    
-    
+    public abstract void actualizarSaldo();
 }
